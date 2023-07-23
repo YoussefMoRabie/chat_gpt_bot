@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273050868173",
+    "project_id": "ai-bot-16831",
+    "storage_bucket": "ai-bot-16831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273050868173:android:ef13515d6c14f2cc574c84",
+        "android_client_info": {
+          "package_name": "com.example.chat_gpt_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273050868173-ggn5htlurbu48ca9165s92rral8e9cvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LJCy0xe9CJt3ssE74VztOJukpaBerso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273050868173-ggn5htlurbu48ca9165s92rral8e9cvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
